@@ -2,9 +2,109 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1afed0f1-1cfc-4198-8bdd-703f4a1bd00e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/User.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/build/assets/css/style.css" afterPath="$PROJECT_DIR$/build/assets/css/style.css" />
+      <change beforePath="$PROJECT_DIR$/build/assets/css/style.min.css" afterPath="$PROJECT_DIR$/build/assets/css/style.min.css" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/OpenSans-Bold.ttf" afterPath="$PROJECT_DIR$/build/assets/fonts/OpenSans-Bold.ttf" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/OpenSans-Light.ttf" afterPath="$PROJECT_DIR$/build/assets/fonts/OpenSans-Light.ttf" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/OpenSans-Regular.ttf" afterPath="$PROJECT_DIR$/build/assets/fonts/OpenSans-Regular.ttf" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/HELP-US-OUT.txt" afterPath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/HELP-US-OUT.txt" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/css/font-awesome.css" afterPath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/css/font-awesome.css" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/less/animated.less" afterPath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/less/animated.less" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/less/bordered-pulled.less" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/less/core.less" afterPath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/less/core.less" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/less/fixed-width.less" afterPath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/less/fixed-width.less" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/less/font-awesome.less" afterPath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/less/font-awesome.less" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/less/icons.less" afterPath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/less/icons.less" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/less/larger.less" afterPath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/less/larger.less" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/less/list.less" afterPath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/less/list.less" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/less/mixins.less" afterPath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/less/mixins.less" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/less/path.less" afterPath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/less/path.less" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/less/rotated-flipped.less" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/less/screen-reader.less" afterPath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/less/screen-reader.less" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/less/stacked.less" afterPath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/less/stacked.less" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/less/variables.less" afterPath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/less/variables.less" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/scss/_animated.scss" afterPath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/scss/_animated.scss" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/scss/_core.scss" afterPath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/scss/_core.scss" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/scss/_fixed-width.scss" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/scss/_icons.scss" afterPath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/scss/_icons.scss" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/scss/_larger.scss" afterPath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/scss/_larger.scss" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/scss/_list.scss" afterPath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/scss/_list.scss" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/scss/_mixins.scss" afterPath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/scss/_mixins.scss" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/scss/_path.scss" afterPath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/scss/_path.scss" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/scss/_screen-reader.scss" afterPath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/scss/_screen-reader.scss" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/scss/_stacked.scss" afterPath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/scss/_stacked.scss" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/scss/_variables.scss" afterPath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/scss/_variables.scss" />
+      <change beforePath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/build/assets/fonts/font-awesome-4.7.0/scss/font-awesome.scss" />
+      <change beforePath="$PROJECT_DIR$/build/assets/i/banner.jpg" afterPath="$PROJECT_DIR$/build/assets/i/banner.jpg" />
+      <change beforePath="$PROJECT_DIR$/build/assets/i/cart.png" afterPath="$PROJECT_DIR$/build/assets/i/cart.png" />
+      <change beforePath="$PROJECT_DIR$/build/assets/i/content-banner1.jpg" afterPath="$PROJECT_DIR$/build/assets/i/content-banner1.jpg" />
+      <change beforePath="$PROJECT_DIR$/build/assets/i/content-banner2.jpg" afterPath="$PROJECT_DIR$/build/assets/i/content-banner2.jpg" />
+      <change beforePath="$PROJECT_DIR$/build/assets/i/content-banner3.jpg" afterPath="$PROJECT_DIR$/build/assets/i/content-banner3.jpg" />
+      <change beforePath="$PROJECT_DIR$/build/assets/i/elastislide-nav.png" afterPath="$PROJECT_DIR$/build/assets/i/elastislide-nav.png" />
+      <change beforePath="$PROJECT_DIR$/build/assets/i/fb.jpg" afterPath="$PROJECT_DIR$/build/assets/i/fb.jpg" />
+      <change beforePath="$PROJECT_DIR$/build/assets/i/fl.jpg" afterPath="$PROJECT_DIR$/build/assets/i/fl.jpg" />
+      <change beforePath="$PROJECT_DIR$/build/assets/i/flag.jpg" afterPath="$PROJECT_DIR$/build/assets/i/flag.jpg" />
+      <change beforePath="$PROJECT_DIR$/build/assets/i/goods1.jpg" afterPath="$PROJECT_DIR$/build/assets/i/goods1.jpg" />
+      <change beforePath="$PROJECT_DIR$/build/assets/i/goods2.jpg" afterPath="$PROJECT_DIR$/build/assets/i/goods2.jpg" />
+      <change beforePath="$PROJECT_DIR$/build/assets/i/goods3.jpg" afterPath="$PROJECT_DIR$/build/assets/i/goods3.jpg" />
+      <change beforePath="$PROJECT_DIR$/build/assets/i/goods4.jpg" afterPath="$PROJECT_DIR$/build/assets/i/goods4.jpg" />
+      <change beforePath="$PROJECT_DIR$/build/assets/i/goods5.jpg" afterPath="$PROJECT_DIR$/build/assets/i/goods5.jpg" />
+      <change beforePath="$PROJECT_DIR$/build/assets/i/goods6.jpg" afterPath="$PROJECT_DIR$/build/assets/i/goods6.jpg" />
+      <change beforePath="$PROJECT_DIR$/build/assets/i/goods7.jpg" afterPath="$PROJECT_DIR$/build/assets/i/goods7.jpg" />
+      <change beforePath="$PROJECT_DIR$/build/assets/i/goods8.jpg" afterPath="$PROJECT_DIR$/build/assets/i/goods8.jpg" />
+      <change beforePath="$PROJECT_DIR$/build/assets/i/goods9.jpg" afterPath="$PROJECT_DIR$/build/assets/i/goods9.jpg" />
+      <change beforePath="$PROJECT_DIR$/build/assets/i/loading.gif" afterPath="$PROJECT_DIR$/build/assets/i/loading.gif" />
+      <change beforePath="$PROJECT_DIR$/build/assets/i/logo.png" afterPath="$PROJECT_DIR$/build/assets/i/logo.png" />
+      <change beforePath="$PROJECT_DIR$/build/assets/i/nav.png" afterPath="$PROJECT_DIR$/build/assets/i/nav.png" />
+      <change beforePath="$PROJECT_DIR$/build/assets/i/partner1.jpg" afterPath="$PROJECT_DIR$/build/assets/i/partner1.jpg" />
+      <change beforePath="$PROJECT_DIR$/build/assets/i/partner4.jpg" afterPath="$PROJECT_DIR$/build/assets/i/partner4.jpg" />
+      <change beforePath="$PROJECT_DIR$/build/assets/i/partner5.jpg" afterPath="$PROJECT_DIR$/build/assets/i/partner5.jpg" />
+      <change beforePath="$PROJECT_DIR$/build/assets/i/partner6.jpg" afterPath="$PROJECT_DIR$/build/assets/i/partner6.jpg" />
+      <change beforePath="$PROJECT_DIR$/build/assets/i/pay1.jpg" afterPath="$PROJECT_DIR$/build/assets/i/pay1.jpg" />
+      <change beforePath="$PROJECT_DIR$/build/assets/i/pay2.jpg" afterPath="$PROJECT_DIR$/build/assets/i/pay2.jpg" />
+      <change beforePath="$PROJECT_DIR$/build/assets/i/pay3.jpg" afterPath="$PROJECT_DIR$/build/assets/i/pay3.jpg" />
+      <change beforePath="$PROJECT_DIR$/build/assets/i/pay4.jpg" afterPath="$PROJECT_DIR$/build/assets/i/pay4.jpg" />
+      <change beforePath="$PROJECT_DIR$/build/assets/i/pay5.jpg" afterPath="$PROJECT_DIR$/build/assets/i/pay5.jpg" />
+      <change beforePath="$PROJECT_DIR$/build/assets/i/pay6.jpg" afterPath="$PROJECT_DIR$/build/assets/i/pay6.jpg" />
+      <change beforePath="$PROJECT_DIR$/build/assets/i/pay7.jpg" afterPath="$PROJECT_DIR$/build/assets/i/pay7.jpg" />
+      <change beforePath="$PROJECT_DIR$/build/assets/i/pay8.jpg" afterPath="$PROJECT_DIR$/build/assets/i/pay8.jpg" />
+      <change beforePath="$PROJECT_DIR$/build/assets/i/slide-sidebar1.jpg" afterPath="$PROJECT_DIR$/build/assets/i/slide-sidebar1.jpg" />
+      <change beforePath="$PROJECT_DIR$/build/assets/i/slide-sidebar2.jpg" afterPath="$PROJECT_DIR$/build/assets/i/slide-sidebar2.jpg" />
+      <change beforePath="$PROJECT_DIR$/build/assets/i/slider.jpg" afterPath="$PROJECT_DIR$/build/assets/i/slider.jpg" />
+      <change beforePath="$PROJECT_DIR$/build/assets/i/tw.jpg" afterPath="$PROJECT_DIR$/build/assets/i/tw.jpg" />
+      <change beforePath="$PROJECT_DIR$/build/assets/js/main.js" afterPath="$PROJECT_DIR$/build/assets/js/main.js" />
+      <change beforePath="$PROJECT_DIR$/build/assets/js/main.min.js" afterPath="$PROJECT_DIR$/build/assets/js/main.min.js" />
+      <change beforePath="$PROJECT_DIR$/build/assets/libs/bootstrap/bootstrap.min.js" afterPath="$PROJECT_DIR$/build/assets/libs/bootstrap/bootstrap.min.js" />
+      <change beforePath="$PROJECT_DIR$/build/assets/libs/google-map/map.js" afterPath="$PROJECT_DIR$/build/assets/libs/google-map/map.js" />
+      <change beforePath="$PROJECT_DIR$/build/assets/libs/html5shiv/es5-shim.min.js" afterPath="$PROJECT_DIR$/build/assets/libs/html5shiv/es5-shim.min.js" />
+      <change beforePath="$PROJECT_DIR$/build/assets/libs/html5shiv/html5shiv-printshiv.min.js" afterPath="$PROJECT_DIR$/build/assets/libs/html5shiv/html5shiv-printshiv.min.js" />
+      <change beforePath="$PROJECT_DIR$/build/assets/libs/html5shiv/html5shiv.min.js" afterPath="$PROJECT_DIR$/build/assets/libs/html5shiv/html5shiv.min.js" />
+      <change beforePath="$PROJECT_DIR$/build/assets/libs/html5shiv/respond.min.js" afterPath="$PROJECT_DIR$/build/assets/libs/html5shiv/respond.min.js" />
+      <change beforePath="$PROJECT_DIR$/build/assets/libs/jquery-easy-scroll/jquery.easeScroll.js" afterPath="$PROJECT_DIR$/build/assets/libs/jquery-easy-scroll/jquery.easeScroll.js" />
+      <change beforePath="$PROJECT_DIR$/build/assets/libs/jquery-migrate/jquery-migrate.min.js" afterPath="$PROJECT_DIR$/build/assets/libs/jquery-migrate/jquery-migrate.min.js" />
+      <change beforePath="$PROJECT_DIR$/build/assets/libs/slick/_slick.scss" afterPath="$PROJECT_DIR$/build/assets/libs/slick/_slick.scss" />
+      <change beforePath="$PROJECT_DIR$/build/assets/libs/slick/slick.min.js" afterPath="$PROJECT_DIR$/build/assets/libs/slick/slick.min.js" />
+      <change beforePath="$PROJECT_DIR$/build/assets/libs/stellar.js/jquery.stellar.min.js" afterPath="$PROJECT_DIR$/build/assets/libs/stellar.js/jquery.stellar.min.js" />
+      <change beforePath="$PROJECT_DIR$/build/assets/libs/wow/animate.css" afterPath="$PROJECT_DIR$/build/assets/libs/wow/animate.css" />
+      <change beforePath="$PROJECT_DIR$/build/assets/libs/wow/animate.min.css" afterPath="$PROJECT_DIR$/build/assets/libs/wow/animate.min.css" />
+      <change beforePath="$PROJECT_DIR$/build/assets/libs/wow/wow.min.js" afterPath="$PROJECT_DIR$/build/assets/libs/wow/wow.min.js" />
+      <change beforePath="$PROJECT_DIR$/build/favicon.ico" afterPath="$PROJECT_DIR$/build/favicon.ico" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" afterPath="$PROJECT_DIR$/build/index.html" />
+      <change beforePath="$PROJECT_DIR$/src/assets/less/partials/_fonts.less" afterPath="$PROJECT_DIR$/src/assets/less/partials/_fonts.less" />
+      <change beforePath="$PROJECT_DIR$/src/assets/less/partials/_variables.less" afterPath="$PROJECT_DIR$/src/assets/less/partials/_variables.less" />
+      <change beforePath="$PROJECT_DIR$/src/assets/less/style.less" afterPath="$PROJECT_DIR$/src/assets/less/style.less" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
+      <change beforePath="$PROJECT_DIR$/src/templates/head.html" afterPath="$PROJECT_DIR$/src/templates/head.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,122 +121,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assets/less/style.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="end.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/templates/end.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gulpfile.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="104" column="30" lean-forward="true" selection-start-line="104" selection-start-column="30" selection-end-line="104" selection-end-column="30" />
-              <folding>
-                <element signature="e#1170#1234#0" expanded="false" />
-                <element signature="e#1911#2248#0" expanded="false" />
-                <element signature="e#2354#2471#0" expanded="false" />
-                <element signature="e#2378#2467#0" expanded="false" />
-                <element signature="e#2396#2439#0" expanded="false" />
-                <element signature="e#2475#2543#0" expanded="false" />
-                <element signature="e#2578#2811#0" expanded="false" />
-                <element signature="e#2815#2883#0" expanded="false" />
-                <element signature="e#3039#3052#0" expanded="false" />
-                <element signature="e#3255#3280#0" expanded="false" />
-                <element signature="e#3466#3561#0" expanded="false" />
-                <element signature="e#3516#3553#0" expanded="false" />
-                <element signature="e#3656#3727#0" expanded="false" />
-                <element signature="e#3765#3879#0" expanded="false" />
-                <element signature="e#3883#3950#0" expanded="false" />
-                <element signature="e#3984#4572#0" expanded="false" />
-                <element signature="e#4155#4180#0" expanded="false" />
-                <element signature="e#4372#4487#0" expanded="false" />
-                <element signature="e#4430#4477#0" expanded="false" />
-                <element signature="e#4576#4646#0" expanded="false" />
-                <element signature="e#4683#5257#0" expanded="false" />
-                <element signature="e#4833#4858#0" expanded="false" />
-                <element signature="e#5053#5168#0" expanded="false" />
-                <element signature="e#5111#5158#0" expanded="false" />
-                <element signature="e#5261#5327#0" expanded="false" />
-                <element signature="e#5360#5782#0" expanded="false" />
-                <element signature="e#5518#5576#0" expanded="false" />
-                <element signature="e#5786#5855#0" expanded="false" />
-                <element signature="e#5891#5967#0" expanded="false" />
-                <element signature="e#5971#6040#0" expanded="false" />
-                <element signature="e#6076#6395#0" expanded="false" />
-                <element signature="e#6193#6349#0" expanded="false" />
-                <element signature="e#6399#6463#0" expanded="false" />
-                <element signature="e#6494#6908#0" expanded="false" />
-                <element signature="e#6606#6786#0" expanded="false" />
-                <element signature="e#6978#7045#0" expanded="false" />
-                <element signature="e#7075#8182#0" expanded="false" />
-                <element signature="e#7168#7244#0" expanded="false" />
-                <element signature="e#7190#7234#0" expanded="false" />
-                <element signature="e#7341#7592#0" expanded="false" />
-                <element signature="e#7373#7538#0" expanded="false" />
-                <element signature="e#7758#8135#0" expanded="false" />
-                <element signature="e#7778#8125#0" expanded="false" />
-                <element signature="e#7804#8111#0" expanded="false" />
-                <element signature="e#7876#8093#0" expanded="false" />
-                <element signature="e#7908#8071#0" expanded="false" />
-                <element signature="e#8186#8236#0" expanded="false" />
-                <element signature="e#8270#8641#0" expanded="false" />
-                <element signature="e#10251#10316#0" expanded="false" />
-                <element signature="e#10350#10451#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/templates/head.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="1278">
+              <caret line="71" column="73" lean-forward="false" selection-start-line="71" selection-start-column="73" selection-end-line="71" selection-end-column="73" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_fonts.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assets/less/partials/_fonts.less">
+      <file leaf-file-name="style.less" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/assets/less/style.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_mixins.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assets/less/partials/_mixins.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            <state relative-caret-position="198">
+              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -151,12 +150,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/assets/less/partials/_fonts.less" />
-        <option value="$PROJECT_DIR$/src/index.html" />
         <option value="$PROJECT_DIR$/src/assets/less/partials/_mixins.less" />
-        <option value="$PROJECT_DIR$/src/assets/less/style.less" />
         <option value="$PROJECT_DIR$/build/assets/js/main.js" />
         <option value="$PROJECT_DIR$/src/templates/end.html" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/src/templates/head.html" />
+        <option value="$PROJECT_DIR$/src/assets/less/style.less" />
       </list>
     </option>
   </component>
@@ -321,6 +321,17 @@
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="styletour.loc" type="cbb8eebc:String" user="styletour.loc" />
             </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="styletour.loc" type="cbb8eebc:String" user="styletour.loc" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="styletour.loc" type="cbb8eebc:String" user="styletour.loc" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="assets" type="cbb8eebc:String" user="assets" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -330,7 +341,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
@@ -384,16 +395,17 @@
     <option name="totallyTimeSpent" value="6298000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <frame x="20" y="20" width="1442" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921812" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.53706294" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15114613" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15544413" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -419,11 +431,78 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/templates/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1278">
+          <caret line="71" column="73" lean-forward="false" selection-start-line="71" selection-start-column="73" selection-end-line="71" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/less/style.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/less/style.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templates/end.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templates/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/less/partials/_fonts.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/less/partials/_mixins.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1854">
+          <caret line="104" column="3" lean-forward="true" selection-start-line="104" selection-start-column="3" selection-end-line="104" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -439,7 +518,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -447,7 +525,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -463,7 +540,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -479,58 +555,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="912">
           <caret line="48" column="36" lean-forward="true" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
-          <folding>
-            <element signature="e#1170#1234#0" expanded="false" />
-            <element signature="e#1911#2248#0" expanded="false" />
-            <element signature="e#2354#2471#0" expanded="false" />
-            <element signature="e#2378#2467#0" expanded="false" />
-            <element signature="e#2396#2439#0" expanded="false" />
-            <element signature="e#2475#2543#0" expanded="false" />
-            <element signature="e#2578#2811#0" expanded="false" />
-            <element signature="e#2815#2883#0" expanded="false" />
-            <element signature="e#3039#3052#0" expanded="false" />
-            <element signature="e#3255#3280#0" expanded="false" />
-            <element signature="e#3466#3561#0" expanded="false" />
-            <element signature="e#3516#3553#0" expanded="false" />
-            <element signature="e#3656#3727#0" expanded="false" />
-            <element signature="e#3765#3879#0" expanded="false" />
-            <element signature="e#3883#3950#0" expanded="false" />
-            <element signature="e#3984#4572#0" expanded="false" />
-            <element signature="e#4155#4180#0" expanded="false" />
-            <element signature="e#4372#4487#0" expanded="false" />
-            <element signature="e#4430#4477#0" expanded="false" />
-            <element signature="e#4576#4646#0" expanded="false" />
-            <element signature="e#4683#5257#0" expanded="false" />
-            <element signature="e#4833#4858#0" expanded="false" />
-            <element signature="e#5053#5168#0" expanded="false" />
-            <element signature="e#5111#5158#0" expanded="false" />
-            <element signature="e#5261#5327#0" expanded="false" />
-            <element signature="e#5360#5782#0" expanded="false" />
-            <element signature="e#5518#5576#0" expanded="false" />
-            <element signature="e#5786#5855#0" expanded="false" />
-            <element signature="e#5891#5967#0" expanded="false" />
-            <element signature="e#5971#6040#0" expanded="false" />
-            <element signature="e#6076#6395#0" expanded="false" />
-            <element signature="e#6193#6349#0" expanded="false" />
-            <element signature="e#6399#6463#0" expanded="false" />
-            <element signature="e#6494#6908#0" expanded="false" />
-            <element signature="e#6606#6786#0" expanded="false" />
-            <element signature="e#6978#7045#0" expanded="false" />
-            <element signature="e#7075#8182#0" expanded="false" />
-            <element signature="e#7168#7244#0" expanded="false" />
-            <element signature="e#7190#7234#0" expanded="false" />
-            <element signature="e#7341#7592#0" expanded="false" />
-            <element signature="e#7373#7538#0" expanded="false" />
-            <element signature="e#7758#8135#0" expanded="false" />
-            <element signature="e#7778#8125#0" expanded="false" />
-            <element signature="e#7804#8111#0" expanded="false" />
-            <element signature="e#7876#8093#0" expanded="false" />
-            <element signature="e#7908#8071#0" expanded="false" />
-            <element signature="e#8186#8236#0" expanded="false" />
-            <element signature="e#8270#8641#0" expanded="false" />
-            <element signature="e#10251#10316#0" expanded="false" />
-            <element signature="e#10350#10451#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -538,47 +562,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/less/partials/_mixins.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
+        <state relative-caret-position="252">
           <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/less/style.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/less/partials/_fonts.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
+        <state relative-caret-position="162">
           <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/templates/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -586,74 +584,43 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/templates/end.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
+        <state relative-caret-position="432">
           <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
-          <caret line="104" column="30" lean-forward="true" selection-start-line="104" selection-start-column="30" selection-end-line="104" selection-end-column="30" />
-          <folding>
-            <element signature="e#1170#1234#0" expanded="false" />
-            <element signature="e#1911#2248#0" expanded="false" />
-            <element signature="e#2354#2471#0" expanded="false" />
-            <element signature="e#2378#2467#0" expanded="false" />
-            <element signature="e#2396#2439#0" expanded="false" />
-            <element signature="e#2475#2543#0" expanded="false" />
-            <element signature="e#2578#2811#0" expanded="false" />
-            <element signature="e#2815#2883#0" expanded="false" />
-            <element signature="e#3039#3052#0" expanded="false" />
-            <element signature="e#3255#3280#0" expanded="false" />
-            <element signature="e#3466#3561#0" expanded="false" />
-            <element signature="e#3516#3553#0" expanded="false" />
-            <element signature="e#3656#3727#0" expanded="false" />
-            <element signature="e#3765#3879#0" expanded="false" />
-            <element signature="e#3883#3950#0" expanded="false" />
-            <element signature="e#3984#4572#0" expanded="false" />
-            <element signature="e#4155#4180#0" expanded="false" />
-            <element signature="e#4372#4487#0" expanded="false" />
-            <element signature="e#4430#4477#0" expanded="false" />
-            <element signature="e#4576#4646#0" expanded="false" />
-            <element signature="e#4683#5257#0" expanded="false" />
-            <element signature="e#4833#4858#0" expanded="false" />
-            <element signature="e#5053#5168#0" expanded="false" />
-            <element signature="e#5111#5158#0" expanded="false" />
-            <element signature="e#5261#5327#0" expanded="false" />
-            <element signature="e#5360#5782#0" expanded="false" />
-            <element signature="e#5518#5576#0" expanded="false" />
-            <element signature="e#5786#5855#0" expanded="false" />
-            <element signature="e#5891#5967#0" expanded="false" />
-            <element signature="e#5971#6040#0" expanded="false" />
-            <element signature="e#6076#6395#0" expanded="false" />
-            <element signature="e#6193#6349#0" expanded="false" />
-            <element signature="e#6399#6463#0" expanded="false" />
-            <element signature="e#6494#6908#0" expanded="false" />
-            <element signature="e#6606#6786#0" expanded="false" />
-            <element signature="e#6978#7045#0" expanded="false" />
-            <element signature="e#7075#8182#0" expanded="false" />
-            <element signature="e#7168#7244#0" expanded="false" />
-            <element signature="e#7190#7234#0" expanded="false" />
-            <element signature="e#7341#7592#0" expanded="false" />
-            <element signature="e#7373#7538#0" expanded="false" />
-            <element signature="e#7758#8135#0" expanded="false" />
-            <element signature="e#7778#8125#0" expanded="false" />
-            <element signature="e#7804#8111#0" expanded="false" />
-            <element signature="e#7876#8093#0" expanded="false" />
-            <element signature="e#7908#8071#0" expanded="false" />
-            <element signature="e#8186#8236#0" expanded="false" />
-            <element signature="e#8270#8641#0" expanded="false" />
-            <element signature="e#10251#10316#0" expanded="false" />
-            <element signature="e#10350#10451#0" expanded="false" />
-          </folding>
+          <caret line="104" column="3" lean-forward="false" selection-start-line="104" selection-start-column="3" selection-end-line="104" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templates/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1278">
+          <caret line="71" column="73" lean-forward="false" selection-start-line="71" selection-start-column="73" selection-end-line="71" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/less/style.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
